@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "blogbackend",
   "version": "1.0.0",
   "description": "my firts api rest full",
   "main": "index.js",
